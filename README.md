@@ -8,3 +8,4 @@ improved treatments of Chagas disease in low-resource settings.
 
 # Contributions
 * Dave Beck, dacb@uw.edu
+Testing: Stanley!
